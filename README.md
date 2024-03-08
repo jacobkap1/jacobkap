@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jacob Kaplan</h1>
 <h3 align="center">A passionate frontend developer from Florida eager to learn more</h3>
-
+![github gif](https://github.com/jacobkap1/jacobkap/assets/157649147/3d3741c8-0ea3-4ce2-87e4-1977aa5f4b46)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobkap1&label=Profile%20views&color=0e75b6&style=flat" alt="jacobkap1" /> </p>
 
