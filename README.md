@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob Kaplan</h1>
-<h3 align="center">A passionate frontend developer from Florida eager to learn more</h3>
+<h3 align="center">A passionate frontend developer at Florida International University eager to learn more</h3>
 
 ![coding for github gif](https://github.com/jacobkap1/jacobkap/assets/157649147/4e93959e-1f98-424d-b94f-220851b0786e)
 
