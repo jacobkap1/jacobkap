@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob Kaplan</h1>
-<h3 align="center">A passionate frontend developer from Florida who loves learning how to code</h3>
+<h3 align="center">A passionate frontend developer from Florida eager to learn more</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobkap1&label=Profile%20views&color=0e75b6&style=flat" alt="jacobkap1" /> </p>
 
@@ -21,9 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacobkap1&show_icons=true&locale=en&layout=compact" alt="jacobkap1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacobkap1&show_icons=true&locale=en" alt="jacobkap1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacobkap1&" alt="jacobkap1" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacobkap1&show_icons=true&locale=en" alt="jacobkap1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacobkap1&" alt="jacobkap1" /></p>
