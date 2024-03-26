@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobkap1&label=Profile%20views&color=0e75b6&style=flat" alt="jacobkap1" /> </p>
 
-- 🔭 I’m currently working on a **front end course**
+- 🔭 I’m currently studying **Data Structures and Algorithms**
 
 - 🌱 I’m currently learning **Full stack languages and frameworks**
 
